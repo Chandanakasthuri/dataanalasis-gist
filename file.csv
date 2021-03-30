@@ -1,0 +1,6 @@
+student marks, roll no >>file.csv
+git add file.csv
+git commit -m "updated file.csv"
+git push -u git -basics master
+
+echo student marks, roll no
