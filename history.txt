@@ -1,0 +1,64 @@
+    1  pwd
+    2  ls
+    3  touch demo.txt
+    4  ls
+    5  mkdir GIST
+    6  ls
+    7  cd GIST
+    8  cd..
+    9  pwd
+   10  cd ..
+   11  pwd
+   12  cd e:
+   13  cd c:
+   14  cd C:\Users\dell\Desktop\chandana-491
+   15  C:/Users/dell/Desktop/chandana-491
+   16  Cd Users/dell/Desktop/chandana-491
+   17  pwd
+   18  echo "1..100"
+   19  pwd
+   20  echo "Hello"
+   21  echo "1..100"
+   22  echo {1..100}
+   23  touch file{1..100}.txt
+   24  touch python{20..50}.py
+   25  touch clanguage{50..70}.cpp
+   26  cd Users/dell/Desktop/chandana-491
+   27  touch clanguage{50..70}.cpp
+   28  touch clanguage{50..70}.cpp
+   29  touch python{20..50}.py
+   30  touch clanguage{50..70}.cpp
+   31  pwd
+   32  ls
+   33  rmdir GIST
+   34  ls
+   35  rm demo.txt
+   36  ls
+   37  rm file{1..10}.txt
+   38  ls
+   39  rm file{50..100}.txt
+   40  ls
+   41  rm *.txt
+   42  ls
+   43  rm *.py
+   44  ls
+   45  rm *.cpp
+   46  ls
+   47  nano myfile.txt
+   48  cat myfile.txt
+   49  nano myfile.txt
+   50  cat myfile.txt
+   51  nano filename.txt
+   52  echo "Hello" >> myfile2.txt
+   53  cat myfile2.txt
+   54  echo {1..1000} >> myfile3.txt
+   55  cap myfile3.txt
+   56  cat myfile3.txt
+   57  mv myfile3.txt myfile2.txt
+   58  cat myfile2.txt
+   59  ls
+   60  cp myfile2.txt myfile.txt
+   61  cat myfile.txt
+   62  ls
+   63  history
+   64  history >>history.txt
